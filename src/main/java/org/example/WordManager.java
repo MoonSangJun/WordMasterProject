@@ -11,6 +11,8 @@ public class WordManager {
     }
 
 
+
+
     public int selectMenu() {
         System.out.print("****영어단어 마스터****\n"
                 +"1. 모든 단어 보기\n"
