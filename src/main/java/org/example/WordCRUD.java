@@ -26,12 +26,16 @@ public class  WordCRUD implements ICRUD {
         return new Word(0,level,word,meaning);
     }
 
+
+
     public void addWord() {
         Word one = (Word)add();
         list.add(one);
         System.out.println("새 단어가 단어장에 추가되었습니다.");
 
     }
+
+
 
 
     @Override
