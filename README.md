@@ -15,3 +15,8 @@ width='300'>
 
 <img src='https://github.com/MoonSangJun/WordMasterProject/blob/master/Screenshots/3.png'
 width='300'>
+
+## 4. [2. 수준별 단어보기] 실행화면
+
+<img src='https://github.com/MoonSangJun/WordMasterProject/blob/master/Screenshots/4.png'
+width='300'>
