@@ -50,3 +50,8 @@ width='300'>
 
 <img src='https://github.com/MoonSangJun/WordMasterProject/blob/master/Screenshots/9.png'
 width='300'>
+
+
+## 10. 프로그램 실행시 파일에 있는 단어 가져오기 및 모든 단어보기 실행
+<img src='https://github.com/MoonSangJun/WordMasterProject/blob/master/Screenshots/10.png'
+width='300'>
